@@ -13,7 +13,7 @@ Users create their own pages with one click; administrators choose where they ar
 * License: LGPL 2.1
 * Translations: N/A
 * Sonar Dashboard: N/A
-* Continuous Integration Status: [![Build Status](https://ci.xwiki.org/job/XWiki%20Contrib/job/personal-pages/job/stable-1.1.x/badge/icon)](https://ci.xwiki.org/job/XWiki%20Contrib/job/personal-pages/job/stable-1.1.x/) (ci.xwiki.org), [![Build](https://github.com/xwiki-contrib/personal-pages/actions/workflows/build.yml/badge.svg?branch=stable-1.1.x)](https://github.com/xwiki-contrib/personal-pages/actions/workflows/build.yml?query=branch%3Astable-1.1.x) (GitHub Actions)
+* Continuous Integration Status: [![Build Status](https://ci.xwiki.org/job/XWiki%20Contrib/job/personal-pages/job/stable-1.1.x/badge/icon)](https://ci.xwiki.org/job/XWiki%20Contrib/job/personal-pages/job/stable-1.1.x/)
 
 ## Features
 
