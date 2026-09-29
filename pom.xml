@@ -30,7 +30,7 @@
   </parent>
   <groupId>org.xwiki.contrib.personalpages</groupId>
   <artifactId>application-personal-pages</artifactId>
-  <version>1.1.1</version>
+  <version>1.1.2-SNAPSHOT</version>
   <packaging>xar</packaging>
   <name>Personal Pages Application</name>
   <description>Personal pages for every user, as proposed in the XWiki Personal Pages design. Users create their own pages with one click; administrators choose where they are created and who can read them.</description>
